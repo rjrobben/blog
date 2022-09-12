@@ -1,16 +1,16 @@
 baseURL = "https://rjrobben.github.io"
 title = "Ray Dylan"
 theme = "coder"
-languagecode = "en"
+languagecode = "en-us"
 defaultcontentlanguage = "en"
 
 paginate = 20
+canonifyURLs = true
 
-pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Ray Dylan"
@@ -23,22 +23,13 @@ disqusShortname = "yourdiscussshortname"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  footerContent = ""
 
-  enableTwemoji = true
+  hideCredits = true
+  hideCopyright = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  customCSS = ["css/custom.css"]
-  customSCSS = ["scss/custom.scss"]
-  customJS = ["js/custom.js"]
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+  rtl = false
+  math = true
 
 # Social links
 [[params.social]]

@@ -23,11 +23,6 @@ pygmentscodefencesguesssyntax = true
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footerContent = ""
-
-  hideCredits = true
-  hideCopyright = true
-
   rtl = false
   math = true
 

@@ -19,7 +19,15 @@ I believe there are three things that I better master to live my life:
 
 # General Improvement Strategy
 
-My desire to improve has always been there. But I am not improving as much I wish due to some bad habits and ways to approach stuff.  There are some general guiding principles which I should learn to be more systematic and not just blindly improve.  Recently reading the book *Atomic Habits*.  Apart from that, there is another direction for improvements following the line of intellect augmentation.  > The power of the unaided mind is highly overrated... The real powers come from devising external aids that enhance cognitive abilities. - Donald Norman For the body, focus is on cardiorespiratory function, muscle relaxation and functional movement. Aerobic exercies + calisthenics + right eating + right sleeping + right breathing = healthy body.  # Philosophical Foundations of the World World means everything, physical and mental, body and mind, everything that you are living in and interacting with.  It is important to understand the world as it is. You live your life in the world, everything is there. So, it is essential to study deeply what is the world presented before us. Everything is meaningless if the world they live in has no meaning.  It is also brilliant to re-engineer our response to the world. Oftentimes it is not the world that makes us suffer, but our response.  
+My desire to improve has always been there. But I am not improving as much I wish due to some bad habits and ways to approach stuff.  There are some general guiding principles which I should learn to be more systematic and not just blindly improve.  Recently reading the book *Atomic Habits*.  Apart from that, there is another direction for improvements following the line of intellect augmentation.  
+> The power of the unaided mind is highly overrated... The real powers come from devising external aids that enhance cognitive abilities. - Donald Norman 
+
+For the body, focus is on cardiorespiratory function, muscle relaxation and functional movement. Aerobic exercies + calisthenics + right eating + right sleeping + right breathing = healthy body.  
+
+# Philosophical Foundations of the World 
+
+World means everything, physical and mental, body and mind, everything that you are living in and interacting with.  It is important to understand the world as it is. You live your life in the world, everything is there. So, it is essential to study deeply what is the world presented before us. Everything is meaningless if the world they live in has no meaning.  It is also brilliant to re-engineer our response to the world. Oftentimes it is not the world that makes us suffer, but our response.  
+
 So far, I have developed some ideas based on Buddism:
 1. **Our world is made up of signals coming from our five senses: sight, hearing, taste, touch, and smell, plus the internal world dominated by our thoughts.**
 2. As there is no self in the five aggregates, there is suffering but no sufferor. 

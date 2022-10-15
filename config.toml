@@ -6,6 +6,7 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyURLs = true
+enableEmoji = true
 
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -14,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Ray Dylan"
-  info = "Full Stack Deep Learning Developer"
+  info = "Peronal blog"
   description = "Ray Dylan's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
